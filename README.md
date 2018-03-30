@@ -1,5 +1,7 @@
 # Shamir's secret sharing
 
+<p> <b> <i> Primenjena standardna verzija Shamirovog tajnog deljenja i modifikovana verzija na slike u boji. </i> </b> </p>
+
 <p> <b> Problem: </b> <br/>
 Slike se koriste za prenos i čuvanje različitih tipova informacija. Postoje različiti scenariji kada vlasnici slika žele da ih zaštite od zlobupotrebe i redistribucije. </p> 
 <i> Primeri: </i> 
