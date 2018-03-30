@@ -23,7 +23,35 @@ Slike se koriste za prenos i čuvanje različitih tipova informacija. Postoje ra
 </p>
 
 <hr>
-<p> <b> Algoritam enkripcije (generisanja senki) </b> </p> 
+
+<table>
+  <tr>
+    <th> <b> Algoritam enkripcije (generisanja senki) </b> </th>
+    <th> <b> Algoritam dekripcije </b>  </th>
+  </tr>
+  <tr>
+    <td>  
+      <i> Opšti postupak </i>
+      <img src = "https://github.com/milicat228/Shamir-s-secret-sharing/blob/master/Algoritam/enkripcija.png?raw=true" / > 
+    </td>
+    <td> 
+      <i> Opšti postupak </i>
+      <img src = "https://github.com/milicat228/Shamir-s-secret-sharing/blob/master/Algoritam/dekripcija.png?raw=true" / > 
+    </td>
+  </tr>
+  <tr>
+    <td> 
+      <i> Detaljni postupak </i>
+      <img src = "https://github.com/milicat228/Shamir-s-secret-sharing/blob/master/Algoritam/enkripcijaDetaljno.png?raw=true" / > 
+    </td>
+    <td>  
+      <i> Detaljni postupak </i>
+      <img src = "https://github.com/milicat228/Shamir-s-secret-sharing/blob/master/Algoritam/dekripcijaDetaljno.png?raw=true" / > 
+    </td>
+  </tr>
+</table>
 
 <hr>
-<p> <b> Algoritam dekripcije </b> </p> 
+<p> <b> Za više informacija pogledati pdf. </b> </p>
+
+
